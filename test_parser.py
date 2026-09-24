@@ -1,5 +1,3 @@
-"""Automated checks for the Module 3 combined lab."""
-
 import unittest
 from pathlib import Path
 
